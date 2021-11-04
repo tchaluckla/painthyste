@@ -1,0 +1,1 @@
+echo my_new_password | "C:\Program Files (x86)\AnyDesk\AnyDesk.exe" --set-password
